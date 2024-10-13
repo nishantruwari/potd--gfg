@@ -43,6 +43,7 @@ class Solution {
             temp=temp.next;
             
         }
+        temp.next=null;
         
         // Code Here
     }
